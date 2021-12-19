@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "matellio"
+  "defaultProject": "matellio",
+  "cli": {
+    "analytics": "cd61c0ea-3d53-47c7-a52c-f0be2287453b"
+  }
 }
